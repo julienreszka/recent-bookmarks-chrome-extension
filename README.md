@@ -2,9 +2,14 @@
 
 This is a simple Chrome extension that displays a list of your most recent bookmarks when you click on the extension icon.
 
+## Screenshots
+
+![Screenshot 1](screenshots/screenshot-1.png)
+
 ## Features
 
 - List the 50 most recent bookmarks
+- Search for bookmarks by title or url
 - Click on a bookmark to open it in a new tab
 - Click on Delete to open a confirmation dialog and delete the bookmark or click on Cancel to close the dialog
 
