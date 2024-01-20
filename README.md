@@ -23,7 +23,7 @@ This means that google will know which bookmarks you have.
 ## Installation
 
 1. Clone this repository to your local machine.
-2. Open Chrome and navigate to [`chrome://extensions`](chrome://extensions).
+2. Open Chrome and navigate to [chrome://extensions](chrome://extensions).
 3. Enable Developer mode by clicking the toggle switch at the top right.
 4. Click the `Load unpacked` button and select the extension directory.
 
