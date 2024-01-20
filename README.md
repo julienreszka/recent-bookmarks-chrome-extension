@@ -10,7 +10,7 @@ This is a simple Chrome extension that displays a list of your most recent bookm
 
 ## Privacy
 
-There is no bullshit you can look it up yourself because tt's less than 200 lines of code.
+There is no bullshit you can look it up yourself because tt's less than 1000 lines of code.
 
 Be aware however that if you toggle favicons to true, it's querying google favicons.
 This means that google will know which bookmarks you have.
