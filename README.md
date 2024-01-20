@@ -29,7 +29,7 @@ This means that google will know which bookmarks you have.
 
 ## Usage
 
-Click on the extension icon to display a list of your 10 most recent bookmarks. Click on a bookmark to open it in a new tab.
+Click on the extension icon to display a list of your 50 most recent bookmarks. Click on a bookmark to open it in a new tab.
 
 ## Permissions
 
