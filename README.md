@@ -35,9 +35,9 @@ Click on the extension icon to display a list of your 50 most recent bookmarks. 
 
 This extension requires the `bookmarks` permission to access your Chrome bookmarks.
 
-<!-- ## Contributing
+## Contributing
 
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change. -->
+Just fork it I don't want to maintain this.
 
 ## License
 
