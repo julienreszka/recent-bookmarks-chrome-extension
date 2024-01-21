@@ -27,7 +27,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
   // Step 1: Add an input field for search
   var searchInput = document.getElementById('searchInput');
-
+  var filteredBookmarks = [];
   // Step 2: Listen for 'input' event on the search field
   searchInput.addEventListener('input', debounce(function () {
     renderBookmarks(enabledFavicons, this.value);
@@ -67,6 +67,8 @@ document.addEventListener('DOMContentLoaded', function () {
 
         // Get the 50 most recent bookmarks
         bookmarks = bookmarks.slice(0, 50);
+
+        filteredBookmarks = bookmarks;
 
         bookmarks.forEach(function (bookmark) {
           var li = document.createElement('li');
