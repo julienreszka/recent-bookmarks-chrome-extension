@@ -42,3 +42,7 @@ Just fork it I don't want to maintain this.
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
+
+## Acknowledgments
+
+- https://alexleybourne.github.io/chrome-extension-icon-generator/
